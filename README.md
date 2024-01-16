@@ -1,4 +1,3 @@
-<img src="https://qpic.ws/images/2024/01/15/Kzm5DC.jpg" alt="DartNode" width="300">
 
 # chinese-poetry-to-mysql
 诗词数据来源于 [chinese-poetry-npm](https://github.com/chinese-poetry/chinese-poetry-npm)
@@ -105,3 +104,7 @@ create table song_ci_popularity (
   bing_en int(11)
 ) charset=utf8mb4;
 ```
+
+## 赞助商
+
+<a href="https://dartnode.com" target="_blank"><img src="https://qpic.ws/images/2024/01/15/Kzm5DC.jpg" alt="DartNode" width="300"></a>
